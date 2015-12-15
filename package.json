@@ -1,0 +1,19 @@
+{
+  "name": "legov-seed-codeigniter",
+  "version": "3.0.2",
+  "description": "codeigniter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://legojs@github.com/legojs/legov-seed-codeigniter.git"
+  },
+  "author": "ronesam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legojs/legov-seed-codeigniter/issues"
+  },
+  "homepage": "https://github.com/legojs/legov-seed-codeigniter#readme"
+}
